@@ -16,13 +16,15 @@ To write a Python program that evaluates and prints the results of boolean and a
 
 ## 💻 Program
 ```
-a=int(input())
-b=int(input())
-comp_num=complex(a,b)
-print(comp_num)
-print(comp_num.real)
-print(comp_num.imag)
+a = (11 == True)
+b = (5== False)
+c = True + 54
+d = False + 7
+print("a is", a)
+print("b is", b)
+print("c:", c)
+print("d:", d)
 ```
 ## Output
-<img width="754" height="414" alt="530210416-6ce8e990-6564-45dd-a8e6-06ed59149ef1" src="https://github.com/user-attachments/assets/8c4c449c-b275-412f-becf-85ed7ffa8c71" />
+<img width="1185" height="335" alt="530209934-49eaab04-5869-4979-95b8-b22dca3eeb3b" src="https://github.com/user-attachments/assets/ccbfa0f0-30ab-4b8c-801f-a8808b3945e2" />
 ## Result
